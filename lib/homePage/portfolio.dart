@@ -1,5 +1,5 @@
 import 'package:ape_portfolio/homePage/accountList.dart';
-import 'package:ape_portfolio/homePage/addAccount.dart';
+import 'package:ape_portfolio/homePage/addAccount/addAccount.dart';
 import 'package:ape_portfolio/homePage/totalAssetBox.dart';
 import 'package:flutter/material.dart';
 
