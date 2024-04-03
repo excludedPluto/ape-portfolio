@@ -14,7 +14,7 @@ class CustomFieldWrapper extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Text(title),
+          Row(children: [Expanded(child: Text(title))]),
           Padding(
             padding:
                 const EdgeInsets.only(top: 8.0, left: 0, right: 0, bottom: 0),
